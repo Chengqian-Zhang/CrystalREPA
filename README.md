@@ -5,7 +5,7 @@ Universal MLIPs to Crystal Generative Models**.
 
 :tada: **Accepted at NeurIPS 2026.**
 
-[Paper](https://arxiv.org/abs/2605.08960) · [Full text](https://arxiv.org/html/2605.08960v1)
+[Paper](https://arxiv.org/abs/2605.08960) · [Full text](https://arxiv.org/html/2605.08960v1) · [Models](https://huggingface.co/CyrilPKU/CrystalREPA-Models) · [Data](https://huggingface.co/datasets/CyrilPKU/CrystalREPA-Data)
 
 CrystalREPA aligns the atom-wise hidden states of a crystal generative model with
 representations from a frozen machine-learning interatomic potential (MLIP).
