@@ -3,7 +3,7 @@
 Official implementation of **CrystalREPA: Transferring Physical Priors from
 Universal MLIPs to Crystal Generative Models**.
 
-**Accepted at NeurIPS 2026.**
+:tada: **Accepted at NeurIPS 2026.**
 
 [Paper](https://arxiv.org/abs/2605.08960) · [Full text](https://arxiv.org/html/2605.08960v1)
 
