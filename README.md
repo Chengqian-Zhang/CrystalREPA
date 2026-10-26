@@ -116,9 +116,6 @@ continuation training, configuration overrides and formation-energy probing.
 
 ## Citation
 
-The paper has been accepted at NeurIPS 2026. The link below points to the
-arXiv preprint; the camera-ready version is forthcoming.
-
 ```bibtex
 @inproceedings{zhang2026crystalrepa,
   title={CrystalREPA: Transferring Physical Priors from Universal MLIPs to Crystal Generative Models},
