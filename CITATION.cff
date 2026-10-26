@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use CrystalREPA, please cite the accompanying paper."
+title: "CrystalREPA: Transferring Physical Priors from Universal MLIPs to Crystal Generative Models"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Chengqian
+  - family-names: Jin
+    given-names: Yucheng
+  - family-names: Zhang
+    given-names: Duo
+  - family-names: Li
+    given-names: Tiejun
+  - family-names: Wang
+    given-names: Han
+preferred-citation:
+  type: conference-paper
+  title: "CrystalREPA: Transferring Physical Priors from Universal MLIPs to Crystal Generative Models"
+  authors:
+    - family-names: Zhang
+      given-names: Chengqian
+    - family-names: Jin
+      given-names: Yucheng
+    - family-names: Zhang
+      given-names: Duo
+    - family-names: Li
+      given-names: Tiejun
+    - family-names: Wang
+      given-names: Han
+  year: 2026
+  collection-title: "Advances in Neural Information Processing Systems"
+  notes: "Accepted at NeurIPS 2026; camera-ready version forthcoming. The URL points to the arXiv preprint."
+  url: https://arxiv.org/abs/2605.08960

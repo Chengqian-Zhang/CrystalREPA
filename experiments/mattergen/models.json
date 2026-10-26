@@ -1,0 +1,112 @@
+{
+  "baseline": {
+    "teacher": null,
+    "dataset": "MP-20",
+    "cache": "mp_20",
+    "epoch": 1899,
+    "config": "experiments/mattergen/baseline.yaml",
+    "checkpoint": "checkpoints/mattergen/baseline/checkpoints/epoch=1899.ckpt",
+    "sha256": "43eee12337764e0eadd907ae065864ffcbef9844b339492096a89402361f1615",
+    "training_preprocessing_matches_release": false
+  },
+  "dpa_3_1_3m": {
+    "teacher": "DPA-3.1-3M",
+    "dataset": "MP-20",
+    "cache": "mp_20",
+    "epoch": 1899,
+    "config": "experiments/mattergen/dpa_3_1_3m.yaml",
+    "checkpoint": "checkpoints/mattergen/dpa_3_1_3m/checkpoints/epoch=1899.ckpt",
+    "sha256": "931a0ae8540a0ad4b5837236f4cee28c0cddf1e457cc0c0fe5d596a74f31691f",
+    "training_preprocessing_matches_release": false
+  },
+  "dpa_3_1_3m_ft": {
+    "teacher": "DPA-3.1-3M-FT",
+    "dataset": "MP-20",
+    "cache": "mp_20",
+    "epoch": 1899,
+    "config": "experiments/mattergen/dpa_3_1_3m_ft.yaml",
+    "checkpoint": "checkpoints/mattergen/dpa_3_1_3m_ft/checkpoints/epoch=1899.ckpt",
+    "sha256": "1f6fb32c4aa3159ef5f1a3a97a252d3687686982c6ee29926d62e97a34eee0ab",
+    "training_preprocessing_matches_release": true
+  },
+  "dpa_3_1_mptrj": {
+    "teacher": "DPA-3.1-MPtrj",
+    "dataset": "MP-20",
+    "cache": "mp_20",
+    "epoch": 1899,
+    "config": "experiments/mattergen/dpa_3_1_mptrj.yaml",
+    "checkpoint": "checkpoints/mattergen/dpa_3_1_mptrj/checkpoints/epoch=1899.ckpt",
+    "sha256": "81e620c67193bfba3c17b4bf78931673d8e3beb19ff6ee4ef0058ffce94cc631",
+    "training_preprocessing_matches_release": true
+  },
+  "mace_mpa_0": {
+    "teacher": "MACE-MPA-0",
+    "dataset": "MP-20",
+    "cache": "mp_20",
+    "epoch": 1899,
+    "config": "experiments/mattergen/mace_mpa_0.yaml",
+    "checkpoint": "checkpoints/mattergen/mace_mpa_0/checkpoints/epoch=1899.ckpt",
+    "sha256": "5726ab18142f17073f37f3bdc24b3d3cda317170bbad46fbd3ab84af98ae6bde",
+    "training_preprocessing_matches_release": true
+  },
+  "mace_mp_0": {
+    "teacher": "MACE-MP-0",
+    "dataset": "MP-20",
+    "cache": "mp_20",
+    "epoch": 1899,
+    "config": "experiments/mattergen/mace_mp_0.yaml",
+    "checkpoint": "checkpoints/mattergen/mace_mp_0/checkpoints/epoch=1899.ckpt",
+    "sha256": "e6a4104fb6900f4782b462227012956ec700047f31a6d8382cf7ab06b39f412d",
+    "training_preprocessing_matches_release": true
+  },
+  "orb_v3": {
+    "teacher": "ORB v3",
+    "dataset": "MP-20",
+    "cache": "mp_20",
+    "epoch": 1899,
+    "config": "experiments/mattergen/orb_v3.yaml",
+    "checkpoint": "checkpoints/mattergen/orb_v3/checkpoints/epoch=1899.ckpt",
+    "sha256": "7418cc83f938dffdf5ad8a6d9f8b6cc1ad35fb789d91428f225d3c252aaf4b2e",
+    "training_preprocessing_matches_release": true
+  },
+  "orb_v2": {
+    "teacher": "ORB v2",
+    "dataset": "MP-20",
+    "cache": "mp_20",
+    "epoch": 1899,
+    "config": "experiments/mattergen/orb_v2.yaml",
+    "checkpoint": "checkpoints/mattergen/orb_v2/checkpoints/epoch=1899.ckpt",
+    "sha256": "5d6dc8699658a00cf892a79325043ca7e2ddb273b4a61a615827f64424c66fd8",
+    "training_preprocessing_matches_release": true
+  },
+  "sevennet_omni_i12": {
+    "teacher": "SevenNet-Omni-i12",
+    "dataset": "MP-20",
+    "cache": "mp_20",
+    "epoch": 1899,
+    "config": "experiments/mattergen/sevennet_omni_i12.yaml",
+    "checkpoint": "checkpoints/mattergen/sevennet_omni_i12/checkpoints/epoch=1899.ckpt",
+    "sha256": "5efca01f504a04805ab789e900eb0dc268949bf172a318aa76988e6a7ef99c51",
+    "training_preprocessing_matches_release": true
+  },
+  "sevennet_l3i5": {
+    "teacher": "SevenNet-l3i5",
+    "dataset": "MP-20",
+    "cache": "mp_20",
+    "epoch": 1899,
+    "config": "experiments/mattergen/sevennet_l3i5.yaml",
+    "checkpoint": "checkpoints/mattergen/sevennet_l3i5/checkpoints/epoch=1899.ckpt",
+    "sha256": "aea740050212f68493b9cd9de332232ead03da14e167da4bea9d0faca07b8079",
+    "training_preprocessing_matches_release": true
+  },
+  "mattersim_v1_5m": {
+    "teacher": "MatterSim-v1-5M",
+    "dataset": "MP-20",
+    "cache": "mp_20",
+    "epoch": 1899,
+    "config": "experiments/mattergen/mattersim_v1_5m.yaml",
+    "checkpoint": "checkpoints/mattergen/mattersim_v1_5m/checkpoints/epoch=1899.ckpt",
+    "sha256": "1ee78a380a724c8ced34bdd4fed41eeeb8e8b7b3704c9eac4e68fed1098735ed",
+    "training_preprocessing_matches_release": true
+  }
+}
