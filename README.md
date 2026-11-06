@@ -1,4 +1,4 @@
-# CrystalREPA
+# CrystalREPA: Transferring Physical Priors from Universal MLIPs to Crystal Generative Models
 
 Official implementation of **CrystalREPA: Transferring Physical Priors from
 Universal MLIPs to Crystal Generative Models**.
@@ -125,7 +125,6 @@ arXiv preprint; the camera-ready version is forthcoming.
   author={Zhang, Chengqian and Jin, Yucheng and Zhang, Duo and Li, Tiejun and Wang, Han},
   booktitle={Advances in Neural Information Processing Systems},
   year={2026},
-  note={Accepted at NeurIPS 2026; camera-ready version forthcoming},
   url={https://arxiv.org/abs/2605.08960}
 }
 ```
