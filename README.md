@@ -3,9 +3,9 @@
 Official implementation of **CrystalREPA: Transferring Physical Priors from
 Universal MLIPs to Crystal Generative Models**.
 
-**Accepted at NeurIPS 2026.**
+:tada: **Accepted at NeurIPS 2026.**
 
-[Paper](https://arxiv.org/abs/2605.08960) · [Full text](https://arxiv.org/html/2605.08960v1)
+[Paper](https://arxiv.org/abs/2605.08960) · [Full text](https://arxiv.org/html/2605.08960v1) · [Models](https://huggingface.co/CyrilPKU/CrystalREPA-Models) · [Data](https://huggingface.co/datasets/CyrilPKU/CrystalREPA-Data)
 
 CrystalREPA aligns the atom-wise hidden states of a crystal generative model with
 representations from a frozen machine-learning interatomic potential (MLIP).
@@ -115,9 +115,6 @@ See [MatterGen usage](docs/mattergen.md) for optional training checks,
 continuation training, configuration overrides and formation-energy probing.
 
 ## Citation
-
-The paper has been accepted at NeurIPS 2026. The link below points to the
-arXiv preprint; the camera-ready version is forthcoming.
 
 ```bibtex
 @inproceedings{zhang2026crystalrepa,
